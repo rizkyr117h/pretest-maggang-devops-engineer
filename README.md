@@ -16,7 +16,7 @@
 
 2. Sebuah element-element yang terhubung satu sama lain yang memiliki tujuan yang sama.
 
-3. Server adalah sebuah penyedia layanan di internet. Ketika sebuah client ingin mengkases halaman web atau mengirim email , mereka menggunakan penyedia layanan server tersebut. Contohnya ketika seorang user ingin mengakses layanan search engine seperti Google maka user tersebut akan melakukan pencarian di URL dengan mengetik Google.com .
+3. Server adalah sebuah penyedia layanan di internet. Ketika sebuah client ingin mengkases halaman web atau mengirim email , mereka menggunakan penyedia layanan server tersebut. Contohnya ketika seorang user ingin mengakses layanan search engine seperti Google maka user tersebut akan melakukan pencarian di URL dengan mengetik Google.com, lalu server akan meresponnya dengan menampilkan halaman pencarian Google.
 
 4. Sebagai pengujian sebelum di deploy ke public.
    
