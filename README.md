@@ -10,7 +10,22 @@
 6. Mengapa teknology container saat ini sangat populer?
 7. Apa yang anda ketahui tentang Orchestration Container System?
 
-Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
+## Jawaban
+
+1. DevOps adalah Sebuah budaya dalam perusahaan untuk mengautomasikan setiap tugas-tugas yang ada dan juga menghubungkan antara tim pengembang dan tim operasion agar pekerjaan lebih efesien.
+
+2. Sebuah element-element yang terhubung satu sama lain yang memiliki tujuan yang sama.
+
+3. Server adalah sebuah penyedia layanan di internet. Ketika sebuah client ingin mengkases halaman web atau mengirim email , mereka menggunakan penyedia layanan server tersebut. Contohnya ketika seorang user ingin mengakses layanan search engine seperti Google maka user tersebut akan melakukan pencarian di URL dengan mengetik Google.com .
+
+4. Sebagai pengujian sebelum di deploy ke public.
+   
+5. Virtualisasi adalah sebuah cara untuk mengakses komputer lain  tanpa harus mengaksesnya secara langsung
+   Container adalah Sesuatu cara untuk membungkus aplikasi agar bisa berjalan di berbagai platform.
+
+6. Karena dengan container aplikasi dapat berjalan di berbagai platform , efesien dalam penggunaan sumber daya , dan mendukung microservice dengan menerapkan setiap service di container yang terpisah.
+
+7. Sebuah alat untuk mengelola container.
 
 ## Task 1 (Virtualization)
 
@@ -20,7 +35,7 @@ Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
   - OS: `ubuntu-20.04` atau `centos-7`
 - Install webserver `nginx`
 - Buatlah web profile temen-temen kemudian deploy ke webserver nginx tersebut yang telah di deploy
-  
+
 (kirimkan hasil screenshotnya simpan dalam folder `screenshot` dengan nama `task1.png`)
 
 ## Task 2 (Container)
